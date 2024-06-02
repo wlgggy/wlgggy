@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+wlgggy's+github)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+wlgggy's+github)](https://git.io/typing-svg)</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
