@@ -1,6 +1,10 @@
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/wlgggy?pet-id=1" width="1200" height="150"/>
+<img
+  src="https://render.gitanimals.org/farms/wlgggy"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!-- <div>
