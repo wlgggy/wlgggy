@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=jihyo's+github)](https://git.io/typing-svg)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{wlgggy}?pet-id=오리" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{wlgggy}?pet-id=duck" width="1000" height="120"/>
 </a>
 <!-- <div>
 <h3>✨ Tech Stack ✨</h3>
