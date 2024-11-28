@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=jihyo's+github)](https://git.io/typing-svg)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/wlgggy?pet-id=1" width="1000" height="120"/>
