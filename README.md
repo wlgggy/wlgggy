@@ -6,6 +6,11 @@
   />
 </a>
 
+<!-- <p>이정우 - 진격거인가 귀멸의 칼날 굿즈 
+정재훈, 홍의준 - 원피스 + 간식 
+이은상, 정현우, 이정욱 - 3명이서 같은 감성아이템 + 간식 
+신권호, 정지훈, 김영호, 진효빈</p> -->
+
 <!-- <div>
 <h3>✨ Tech Stack ✨</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
