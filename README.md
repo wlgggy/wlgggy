@@ -1,11 +1,12 @@
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/wlgggy?pet-id=653576779861227105"
-    width="600"
+    src="https://render.gitanimals.org/lines/wlggg?pet-id=653576779861227105"y"
+    width="700"
     height="120"
   />
 </a>
-
+  
 <!-- <p>이정우 - 진격거인가 귀멸의 칼날 굿즈 
 정재훈, 홍의준 - 원피스 + 간식 
 이은상, 정현우, 이정욱 - 3명이서 같은 감성아이템 + 간식 
