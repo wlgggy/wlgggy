@@ -2,7 +2,11 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/wlgggy?pet-id=653576779861227105"
-    
+    width="600"
+    height="120"
+  />
+   <img
+    src="https://render.gitanimals.org/lines/wlgggy?pet-id=654220124275462907"
     width="600"
     height="120"
   />
@@ -10,11 +14,7 @@
 
   
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/wlgggy?pet-id=654220124275462907"
-    width="600"
-    height="120"
-  />
+ 
 </a>
   
 <!-- <div>
