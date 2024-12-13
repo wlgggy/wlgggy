@@ -2,13 +2,13 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/wlgggy?pet-id=653576779861227105"
-    width="600"
-    height="120"
+    width="800"
+    height="100"
   />
    <img
     src="https://render.gitanimals.org/lines/wlgggy?pet-id=654220124275462907"
-    width="600"
-    height="120"
+    width="800"
+    height="100"
   />
 </a>
 
