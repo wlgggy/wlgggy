@@ -1,11 +1,22 @@
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/wlgggy"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/wlgggy?pet-id=653576779861227105"
+    src="https://render.gitanimals.org/lines/wlgggy?pet-id=654220124275462907"
+    width="600"
+    height="120"
+  />
 </a>
 
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!-- <div>
 <h3>✨ Tech Stack ✨</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
