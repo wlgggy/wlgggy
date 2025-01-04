@@ -1,10 +1,12 @@
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/wlgggy"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/wlgggy?pet-id=653576779861227105"
+    width="600"
+    height="150"
+  />
 </a>
+
+<!-- <p></p> -->
 
 <!-- <div>
 <h3>✨ Tech Stack ✨</h3>
